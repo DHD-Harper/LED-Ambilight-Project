@@ -55,3 +55,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Project Files
+.ccsproject
+.cproject
